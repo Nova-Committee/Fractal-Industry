@@ -1,0 +1,68 @@
+{
+  "ambientocclusion": false,
+  "textures": {
+    "cable": "fracdustry:block/miscs/cable",
+    "particle": "fracdustry:block/miscs/cable"
+  },
+  "elements": [
+    {
+      "from": [
+        6,
+        6,
+        0
+      ],
+      "to": [
+        10,
+        10,
+        7
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            3,
+            3,
+            7,
+            7
+          ],
+          "texture": "#cable"
+        },
+        "east": {
+          "uv": [
+            6,
+            3,
+            13,
+            7
+          ],
+          "texture": "#cable"
+        },
+        "west": {
+          "uv": [
+            6,
+            3,
+            13,
+            7
+          ],
+          "texture": "#cable"
+        },
+        "up": {
+          "uv": [
+            3,
+            6,
+            7,
+            13
+          ],
+          "texture": "#cable"
+        },
+        "down": {
+          "uv": [
+            3,
+            6,
+            7,
+            13
+          ],
+          "texture": "#cable"
+        }
+      }
+    }
+  ]
+}

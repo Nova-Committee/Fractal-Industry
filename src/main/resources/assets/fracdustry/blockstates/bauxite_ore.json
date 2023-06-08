@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "fracdustry:block/ores/bauxite_ore"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "committee.nova.fracdustry.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "fracdustry.refmap.json",
+  "mixins": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
