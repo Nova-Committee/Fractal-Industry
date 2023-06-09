@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "fracdustry:bauxite_ore",
+    "fracdustry:deepslate_bauxite_ore",
+    "fracdustry:cassiterite_ore",
+    "fracdustry:deepslate_cassiterite_ore",
+    "fracdustry:ilmenite_ore",
+    "fracdustry:deepslate_ilmenite_ore",
+    "fracdustry:rare_earth_ore",
+    "fracdustry:deepslate_rare_earth_ore",
+    "fracdustry:spodumene_ore",
+    "fracdustry:deepslate_spodumene_ore"
+  ]
+}
