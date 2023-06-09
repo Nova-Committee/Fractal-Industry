@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": [
+    "fracdustry:bauxite_ore",
+    "fracdustry:cassiterite_ore",
+    "fracdustry:ilmenite_ore",
+    "fracdustry:rare_earth_ore",
+    "fracdustry:spodumene_ore"
+  ],
+  "step": "underground_ores"
+}
